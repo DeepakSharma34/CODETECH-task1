@@ -1,4 +1,4 @@
-# CODETECH-task1
+# CODTECH-task1
 
 # Project Overview
 # This portfolio website showcases the work and skills of Deepak Sharma, a passionate web developer with a strong foundation in both front-end and back-end technologies. The website features a modern, user-friendly design with intuitive navigation, allowing visitors to easily access information about Deepak's services, projects, experience, and skills. Key sections include:
